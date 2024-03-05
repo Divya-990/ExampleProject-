@@ -1,0 +1,6 @@
+This repository is to create Seller applications :
+
+1. login code
+2. All categories code 
+3. Sub categories code
+4. Post now Submit button code 
