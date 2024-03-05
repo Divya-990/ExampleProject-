@@ -4,3 +4,4 @@ This repository is to create Seller applications :
 2. All categories code 
 3. Sub categories code
 4. Post now Submit button code 
+5. go to home page and check products 
